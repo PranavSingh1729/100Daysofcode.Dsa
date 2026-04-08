@@ -54,7 +54,7 @@ void findOrder() {
 
 int main() {
     V = 4;
-
+    
     // initialize
     for (int i = 0; i < V; i++) {
         state[i] = 0;
